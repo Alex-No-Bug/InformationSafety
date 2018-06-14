@@ -1,2 +1,2 @@
-intelligent
-play
+The normal decision table representation has four separate parts in a specific format.
+computer
